@@ -145,15 +145,22 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 
 ## Our_Team
 
-Our team is part of the DIG group of the State Key Laboratory of Software Development Environment ([SKLSDE](https://ev.buaa.edu.cn/info/1035/1862.htm)), supervised Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). The main research goals of our team is physical adversarial examples generation, adversarial defense and evaluation.
-
-
+Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Key Laboratory of Software Development Environment** ([SKLSDE](https://ev.buaa.edu.cn/info/1035/1862.htm)), supervised Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). The main research goals of our team is Security and Trustworthy AI.
 
 ### Current Members
 
-[**Jiakai Wang**](https://jiakaiwangcn.github.io/)
 
-- I am now a Research Scientist in **ZGC Lab**, Beijing, China. I received the Ph.D. degree in 2022 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*), supervised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). Before that, I obtained my BSc degree in 2018 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*). My research interest is **Trustworthy AI** in **Computer Vision**, which consists of the physical adversarial examples generation, adversarial defense and evaluation. I hold the review that physical adversarial attacks and defenses can powerfully promote the development of secure and robust artificial intelligence, leading to a healthier future society.
+**Haojie Hao**
+
+- 
+
+**Zhengquan Sun**
+
+-
+
+**Donghua Wang**
+
+-
 
 **Jin Hu**
 
@@ -163,25 +170,34 @@ Our team is part of the DIG group of the State Key Laboratory of Software Develo
 
 - 
 
-**Zixin Yin**
-
-- 
-
-**Zhengquan Sun**
-
-- 
-
-**Haojie Hao**
-
-- 
-
-
-
 ### Alumnus
 
+**Zixin Yin**
+
+-
 
 
 
+
+
+### Supervisors
+
+[**Jiakai Wang**](https://jiakaiwangcn.github.io/)(<font color=red>**Primary**</font>)
+
+- Jiakai is now a Research Scientist in **ZGC Lab**, Beijing, China. He received the Ph.D. degree in 2022 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*), supervised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). Before that, he obtained my BSc degree in 2018 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*). His research interest is **Trustworthy AI** in **Computer Vision** (mainly), and **Multimodal Machine Learning**, including *Physical Adversarial Attacks and Defense*, *Transferable Adversarial Examples*, and *Securiy of Practical AI*.
+
+
+[**Xianglong Liu**](https://xlliu-beihang.github.io/)
+
+-xianglong Liu is a Full Professor in School of Computer Science and Engineering at Beihang University. He received BS and Ph.D degrees under supervision of Prof. Wei Li, and visited DVMM Lab, Columbia University as a joint Ph.D student supervised by Prof. Shih-Fu Chang. His research interests include fast visual computing (e.g., large-scale search/understanding) and robust deep learning (e.g., network quantization, adversarial attack/defense, few shot learning). He received NSFC Excellent Young Scientists Fund, and was selected into 2019 Beijing Nova Program, MSRA StarTrack Program, and 2015 CCF Young Talents Development Program.
+
+
+[**Tingsong Jiang**]
+
+
+[**Aishan Liu**](https://liuaishan.github.io/)
+
+-Aishan is an Assistant Professor in the State Key Laboratory of Software Development Environment, Department of Computer Science and Engineering at Beihang University. His research interestes are centered around AI Safety and Security, with broad interests in the areas of Adversarial Examples, Backdoor Attacks, Interpretable Deep Learning , Model Robustness, Fairness Testing, AI Testing and Evaluation, and their applications in real-world scenarios.
 
 ### Publications
 
