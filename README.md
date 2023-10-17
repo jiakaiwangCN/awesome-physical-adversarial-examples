@@ -1,6 +1,6 @@
 # Awesome Physical Adversarial Examples [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repo collects papers about **Physical Adversarial Examples** for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to [Jiakai Wang](https://jiakaiwangcn.github.io/), [Jin Hu](https://github.com/HuJ1n), [Siyang Wu](https://github.com/wsynuiag), and all researchers who have contributed to this project!
+This repo collects papers about **Physical Adversarial Examples** for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to the [**Researchers**](#Contributors) who have contributed to this project!
 
 
 
@@ -199,5 +199,6 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 -Aishan is an Assistant Professor in the State Key Laboratory of Software Development Environment, Department of Computer Science and Engineering at Beihang University. His research interestes are centered around AI Safety and Security, with broad interests in the areas of Adversarial Examples, Backdoor Attacks, Interpretable Deep Learning , Model Robustness, Fairness Testing, AI Testing and Evaluation, and their applications in real-world scenarios.
 
-### Publications
+### Contributors
+
 
