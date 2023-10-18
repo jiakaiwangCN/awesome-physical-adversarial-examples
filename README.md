@@ -189,7 +189,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 [**Xianglong Liu**](https://xlliu-beihang.github.io/)
 
--xianglong Liu is a Full Professor in School of Computer Science and Engineering at Beihang University. He received BS and Ph.D degrees under supervision of Prof. Wei Li, and visited DVMM Lab, Columbia University as a joint Ph.D student supervised by Prof. Shih-Fu Chang. His research interests include fast visual computing (e.g., large-scale search/understanding) and robust deep learning (e.g., network quantization, adversarial attack/defense, few shot learning). He received NSFC Excellent Young Scientists Fund, and was selected into 2019 Beijing Nova Program, MSRA StarTrack Program, and 2015 CCF Young Talents Development Program.
+-Xianglong Liu is a Full Professor in School of Computer Science and Engineering at Beihang University. He received BS and Ph.D degrees under supervision of Prof. Wei Li, and visited DVMM Lab, Columbia University as a joint Ph.D student supervised by Prof. Shih-Fu Chang. His research interests include fast visual computing (e.g., large-scale search/understanding) and robust deep learning (e.g., network quantization, adversarial attack/defense, few shot learning). He received NSFC Excellent Young Scientists Fund, and was selected into 2019 Beijing Nova Program, MSRA StarTrack Program, and 2015 CCF Young Talents Development Program.
 
 
 [**Tingsong Jiang**]
@@ -201,5 +201,5 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 ### Contributors
 
--Waiting for more contributors!
+Waiting for your contribution ! 😄😄😄
 
