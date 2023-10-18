@@ -158,9 +158,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 -
 
-**Donghua Wang**
 
--
 
 **Jin Hu**
 
@@ -176,9 +174,11 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 -
 
+### Partner
 
+**Donghua Wang**
 
-
+-
 
 ### Supervisors
 
