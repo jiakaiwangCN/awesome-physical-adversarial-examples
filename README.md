@@ -188,7 +188,8 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 [**Jiakai Wang**](https://jiakaiwangcn.github.io/)(<font color=red>**Primary**</font>)
 
-- Jiakai is now a Research Scientist in **ZGC Lab**, Beijing, China. He received the Ph.D. degree in 2022 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*), supervised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). Before that, he obtained my BSc degree in 2018 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*). His research interests is **Trustworthy AI** in **Computer Vision** (mainly) and **Multimodal Machine Learning**, including *Physical Adversarial Attacks and Defense*, *Transferable Adversarial Examples*, and *Securiy of Practical AI*.
+- Jiakai is now a Research Scientist in **ZGC Lab**, Beijing, China. He received the Ph.D. degree in 2022 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*), supervised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). Before that, he obtained my BSc degree in 2018 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*). His research interests are **Trustworthy AI** in **Computer Vision** (mainly) and **Multimodal Machine Learning**, including *Physical Adversarial Attacks and Defense*, *Transferable Adversarial Examples*, and *Security of Practical AI*.
+
 
 
 [**Xianglong Liu**](https://xlliu-beihang.github.io/)
