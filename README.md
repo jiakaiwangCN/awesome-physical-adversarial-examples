@@ -55,19 +55,56 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Physically_Adversarial_Infrared_Patches_With_Learnable_Shapes_and_Locations_CVPR_2023_paper.pdf)] Physically adversarial infrared patches with learnable shapes and locations [**`2D`**]
 - \[**`2023`**\][[AAAI](https://arxiv.org/pdf/2212.05709.pdf)] Hotcold block: Fooling thermal infrared detectors with a novel wearable design [**`2D`**]
-
 - \[**`2022`**\][[TPAMI](https://arxiv.org/pdf/2212.12995.pdf)] Simultaneously optimizing perturbations and positions for black-box adversarial patch attacks [**`2D`**]
 - \[**`2022`**\][[TPAMI](https://ieeexplore.ieee.org/abstract/document/9779913)] Adversarial Sticker: A Stealthy Attack Method in the Physical World [**`2D`**]
-- \[**`2022`**\][[NIPS](https://arxiv.org/abs/2210.15291)] Isometric 3D Adversarial Examples in the Physical World [**`3D`**]
+- \[**`2022`**\][[NIPS](https://arxiv.org/pdf/2210.15291.pdf)] Isometric 3D Adversarial Examples in the Physical World [**`3D`**]
+- \[**`2022`**\][[AAAI](https://arxiv.org/pdf/2109.07193.pdf)] FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack [**`3D`**]
+- \[**`2021`**\][[TCYB](https://arxiv.org/pdf/1902.02067.pdf)] Daedalus: Breaking Non-Maximum Suppression in Object Detection via Adversarial Examples [**`2D`**]
+- \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dual_Attention_Suppression_Attack_Generate_Adversarial_Camouflage_in_Physical_World_CVPR_2021_paper.pdf)] Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World [**`3D`**]
+- \[**`2020`**\][[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tu_Physically_Realizable_Adversarial_Examples_for_LiDAR_Object_Detection_CVPR_2020_paper.pdf)] Physically Realizable Adversarial Examples for LiDAR Object Detection [**`3D`**]
+- \[**`2020`**\][[ECCV](https://arxiv.org/pdf/1910.11099.pdf)] Adversarial T-shirt! Evading Person Detectors in A Physical World [**`3D`**]
+- \[**`2019`**\][[ACM TOPS](https://arxiv.org/pdf/1801.00349.pdf)] A General Framework for Adversarial Examples with Objectives [**`2D`**]
+- \[**`2019`**\][[CVPR Workshop](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Thys_Fooling_Automated_Surveillance_Cameras_Adversarial_Patches_to_Attack_Person_Detection_CVPRW_2019_paper.pdf)] Fooling automated surveillance cameras: adversarial patches to attack person detection [**`2D`**]
+- \[**`2019`**\][[ICML Workshop](https://arxiv.org/pdf/1906.11897.pdf)] On Physical Adversarial Patches for Object Detection [**`2D`**]
+- \[**`2019`**\][[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xiao_MeshAdv_Adversarial_Meshes_for_Visual_Recognition_CVPR_2019_paper.pdf)] MeshAdv: Adversarial Meshes for Visual Recognition [**`3D`**]
+- \[**`2018`**\][[USENIX Workshop](https://arxiv.org/pdf/1807.07769.pdf)] Physical Adversarial Examples for Object Detectors [**`2D`**]
+- \[**`2018`**\][[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)] Robust Physical-World Attacks on Deep Learning Visual Classification [**`2D`**]
+- \[**`2018`**\][[ICLR](https://arxiv.org/pdf/1607.02533.pdf)] Adversarial examples in the physical world [**`2D`**]
+- \[**`2018`**\][[ICML](https://arxiv.org/pdf/1707.07397.pdf)] Synthesizing Robust Adversarial Examples [**`3D`**]
+- \[**`2017`**\][[arXiv](https://arxiv.org/pdf/1712.02494.pdf)] Adversarial Examples that Fool Detectors [**`2D`**]
+- \[**`2016`**\][[ACM CCS](https://dl.acm.org/doi/10.1145/2976749.2978392)] Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition [**`2D`**]
 
 #### Untouchable Attacks
 
 - \[**`2023`**\][[ICCV](https://arxiv.org/pdf/2307.07653.pdf)] RFLA: A Stealthy Reflected Light Adversarial Attack in the Physical World [**`Lighting`**]
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Physical-World_Optical_Adversarial_Attacks_on_3D_Face_Recognition_CVPR_2023_paper.pdf)] Physical-world optical adversarial attacks on 3d face recognition [**`Lighting`**]
-
 - \[**`2022`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_Shadows_Can_Be_Dangerous_Stealthy_and_Effective_Physical-World_Adversarial_Attack_CVPR_2022_paper.pdf)] Shadows can be dangerous: Stealthy and effective physical-world adversarial attack by natural phenomenon [**`Lighting`**]
 - \[**`2022`**\][[arXiv](https://arxiv.org/pdf/2209.02430.pdf)] Adversarial color film: Effective physical-world attack to dnns [**`Lighting`**]
+- \[**`2022`**\][[arXiv](https://arxiv.org/pdf/2206.12251.pdf)] Adversarial Zoom Lens: A Novel Physical-World Attack to DNNs [**`Lighting`**]
+- \[**`2022`**\][[VR](https://arxiv.org/pdf/2012.05858.pdf)] SPAA: Stealthy Projector-based Adversarial Attacks on Deep Image Classifiers [**`Lighting`**]
+- \[**`2022`**\][[WACV](https://arxiv.org/pdf/2110.11525.pdf)] Digital and Physical-World Attacks on Remote Pulse Detection [**`Lighting`**]
 - \[**`2022`**\][[ICLR](https://arxiv.org/pdf/2112.07076.pdf)] Real-time neural voice camouflage [**`Audio/Speech`**]
+- \[**`2022`**\][[NIPS](https://papers.nips.cc/paper_files/paper/2022/file/c204d12afa0175285e5aac65188808b4-Paper-Conference.pdf)] VoiceBlock: Privacy through Real-Time Adversarial Attacks with Audio-to-Audio Models [**`Audio/Speech`**]
+- \[**`2021`**\][[USENIX Security Symposium](https://arxiv.org/pdf/2007.04137.pdf)] SLAP: Improving Physical Adversarial Examples with Short-Lived Adversarial Perturbations [**`Lighting`**]
+- \[**`2021`**\][[ICCV Workshop](https://arxiv.org/pdf/2108.06247.pdf)] Optical Adversarial Attack [**`Lighting`**]
+- \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Pony_Over-the-Air_Adversarial_Flickering_Attacks_Against_Video_Recognition_Networks_CVPR_2021_paper.pdf)] Over-the-Air Adversarial Flickering Attacks against Video Recognition Networks [**`Lighting`**]
+- \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_Adversarial_Laser_Beam_Effective_Physical-World_Attack_to_DNNs_in_a_CVPR_2021_paper.pdf)] Adversarial Laser Beam: Effective Physical-World Attack to DNNs in a Blink [**`Lighting`**]
+- \[**`2021`**\][[AAAI](https://arxiv.org/pdf/2101.08154.pdf)] Fooling thermal infrared pedestrian detectors in real world using small bulbs [**`Lighting`**]
+- \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Sayles_Invisible_Perturbations_Physical_Adversarial_Examples_Exploiting_the_Rolling_Shutter_Effect_CVPR_2021_paper.pdf)] Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect [**`Lighting`**]
+- \[**`2021`**\][[arXiv](https://arxiv.org/pdf/2106.09908.pdf)] Light Lies: Optical Adversarial Attack [**`Lighting`**]
+- \[**`2021`**\][[ICASSP](https://arxiv.org/pdf/2105.09022.pdf)] Attack on practical speaker verification system using universal adversarial perturbations [**`Audio/Speech`**]
+- \[**`2020`**\][[NIPS](https://arxiv.org/pdf/2002.03500.pdf)] Watch out! Motion is Blurring the Vision of Your Deep Neural Networks [**`Lighting`**]
+- \[**`2020`**\][[USENIX Security Symposium](https://arxiv.org/pdf/2006.11946.pdf)] Light Commands: Laser-Based Audio Injection Attacks on Voice-Controllable Systems [**`Audio/Speech`**]
+- \[**`2020`**\][[ICASSP](https://arxiv.org/pdf/2003.02301.pdf)] Real-time, Universal, and Robust Adversarial Attacks Against Speaker Recognition Systems [**`Audio/Speech`**]
+- \[**`2020`**\][[HotMobile](https://dl.acm.org/doi/abs/10.1145/3376897.3377856)] Practical Adversarial Attacks Against Speaker Recognition Systems [**`Audio/Speech`**]
+- \[**`2020`**\][[USENIX Security Symposium](https://www.usenix.org/system/files/sec20summer_chen-yuxuan_prepub.pdf)] Devil’s Whisper: A General Approach for Physical Adversarial Attacks against Commercial Black-box Speech Recognition Devices [**`Audio/Speech`**]
+- \[**`2019`**\][[S&P](https://www.ieee-security.org/TC/SP2019/posters/hotcrp_sp19posters-final28.pdf)] Poster: Perceived Adversarial Examples [**`Lighting`**]
+- \[**`2019`**\][[NIPS](https://arxiv.org/pdf/1911.00126.pdf)] Adversarial Music: Real World Audio Adversary Against Wake-word Detection System [**`Audio/Speech`**]
+- \[**`2019`**\][[IJCAI](https://arxiv.org/pdf/1810.11793.pdf)] Robust Audio Adversarial Example for a Physical Attack [**`Audio/Speech`**]
+- \[**`2019`**\][[ICML](https://arxiv.org/pdf/1903.10346.pdf)] Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition [**`Audio/Speech`**]
+- \[**`2019`**\][[arXiv](https://arxiv.org/pdf/1906.06355.pdf)] Perceptual Based Adversarial Audio Attacks [**`Audio/Speech`**]
+- \[**`2018`**\][[AAAI Symposium](https://arxiv.org/pdf/1810.10337.pdf)] Projecting Trouble: Light Based Adversarial Attacks on Deep Learning Classifiers [**`Lighting`**]
+- \[**`2018`**\][[S&P Workshop](https://arxiv.org/pdf/1801.01944.pdf)] Audio Adversarial Examples: Targeted Attacks on Speech-to-Text [**`Audio/Speech`**]
 
 
 
@@ -156,9 +193,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 **Zhengquan Sun**
 
--
-
-
+- 
 
 **Jin Hu**
 
@@ -172,17 +207,17 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 **Zixin Yin**
 
--
+- 
 
 ### Collaborators
 
 **Donghua Wang**
 
--
+- 
 
 [**Tingsong Jiang**]
 
--
+- 
 
 ### Supervisors
 
@@ -194,7 +229,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 [**Xianglong Liu**](https://xlliu-beihang.github.io/)
 
--Xianglong Liu is a Full Professor in School of Computer Science and Engineering at Beihang University. He received BS and Ph.D degrees under supervision of Prof. Wei Li, and visited DVMM Lab, Columbia University as a joint Ph.D student supervised by Prof. Shih-Fu Chang. His research interests include fast visual computing (e.g., large-scale search/understanding) and robust deep learning (e.g., network quantization, adversarial attack/defense, few shot learning). He received NSFC Excellent Young Scientists Fund, and was selected into 2019 Beijing Nova Program, MSRA StarTrack Program, and 2015 CCF Young Talents Development Program.
+- Xianglong Liu is a Full Professor in School of Computer Science and Engineering at Beihang University. He received BS and Ph.D degrees under supervision of Prof. Wei Li, and visited DVMM Lab, Columbia University as a joint Ph.D student supervised by Prof. Shih-Fu Chang. His research interests include fast visual computing (e.g., large-scale search/understanding) and robust deep learning (e.g., network quantization, adversarial attack/defense, few shot learning). He received NSFC Excellent Young Scientists Fund, and was selected into 2019 Beijing Nova Program, MSRA StarTrack Program, and 2015 CCF Young Talents Development Program.
 
 
 
@@ -202,7 +237,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 [**Aishan Liu**](https://liuaishan.github.io/)
 
--Aishan is an Assistant Professor in the State Key Laboratory of Software Development Environment, Department of Computer Science and Engineering at Beihang University. His research interestes are centered around AI Safety and Security, with broad interests in the areas of Adversarial Examples, Backdoor Attacks, Interpretable Deep Learning , Model Robustness, Fairness Testing, AI Testing and Evaluation, and their applications in real-world scenarios.
+- Aishan is an Assistant Professor in the State Key Laboratory of Software Development Environment, Department of Computer Science and Engineering at Beihang University. His research interestes are centered around AI Safety and Security, with broad interests in the areas of Adversarial Examples, Backdoor Attacks, Interpretable Deep Learning , Model Robustness, Fairness Testing, AI Testing and Evaluation, and their applications in real-world scenarios.
 
 ### Contributors
 
