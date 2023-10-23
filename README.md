@@ -30,9 +30,8 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 - [Our\_Team](#our_team)
   - [Current Members](#current-members)
   - [Alumnus](#alumnus)
-  - [Publications](#publications)
-
-
+- [Collaborators](#collaborators)
+- [Contributors](#contributors)
 
 ## Surveys
 
@@ -249,7 +248,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 - 
 
 
-### Contributors
+## Contributors
 
 Waiting for your contribution ! 😄😄😄
 
