@@ -39,10 +39,8 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 - \[**`2023`**\][[CoRR](https://arxiv.org/pdf/2211.01671.pdf)] Physically adversarial attacks and defenses in computer vision: A survey
 - \[**`2023`**\][[arXiv](https://arxiv.org/pdf/2209.14262.pdf)] A survey on physical adversarial attack in computer vision
 - \[**`2023`**\][[arXiv](https://arxiv.org/pdf/2209.15179.pdf)] Physical adversarial attack meets computer vision: A decade survey
-
 - \[**`2021`**\][[IJMLC](https://link.springer.com/article/10.1007/s13042-020-01242-z)] Adversarial examples: attacks and defenses in the physical world
 - \[**`2021`**\][[IEEE Access](https://ieeexplore.ieee.org/document/9614158)] Advances in adversarial attacks and defenses in computer vision: A survey
-
 - \[**`2018`**\][[cybersecurity](https://cybersecurity.springeropen.com/articles/10.1186/s42400-018-0012-9)] A survey of practical adversarial example attacks
 
 
