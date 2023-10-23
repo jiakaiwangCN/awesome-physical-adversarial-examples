@@ -222,7 +222,23 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 - 
 
-### Collaborators
+### Supervisors
+
+[**Jiakai Wang**](https://jiakaiwangcn.github.io/)(<font color=red>**Primary**</font>)
+
+- Jiakai is now a Research Scientist in **ZGC Lab**, Beijing, China. He received the Ph.D. degree in 2022 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*), supervised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). Before that, he obtained my BSc degree in 2018 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*). His research interests are **Trustworthy AI** in **Computer Vision** (mainly) and **Multimodal Machine Learning**, including *Physical Adversarial Attacks and Defense*, *Transferable Adversarial Examples*, and *Security of Practical AI*.
+
+
+[**Aishan Liu**](https://liuaishan.github.io/)
+
+- Aishan is an Assistant Professor in the State Key Laboratory of Software Development Environment, Department of Computer Science and Engineering at Beihang University. His research interestes are centered around AI Safety and Security, with broad interests in the areas of Adversarial Examples, Backdoor Attacks, Interpretable Deep Learning , Model Robustness, Fairness Testing, AI Testing and Evaluation, and their applications in real-world scenarios.
+
+[**Xianglong Liu**](https://xlliu-beihang.github.io/)
+
+- Xianglong Liu is a Full Professor in School of Computer Science and Engineering at Beihang University. He received BS and Ph.D degrees under supervision of Prof. Wei Li, and visited DVMM Lab, Columbia University as a joint Ph.D student supervised by Prof. Shih-Fu Chang. His research interests include fast visual computing (e.g., large-scale search/understanding) and robust deep learning (e.g., network quantization, adversarial attack/defense, few shot learning). He received NSFC Excellent Young Scientists Fund, and was selected into 2019 Beijing Nova Program, MSRA StarTrack Program, and 2015 CCF Young Talents Development Program.
+
+
+## Collaborators
 
 **Donghua Wang**
 
@@ -232,25 +248,6 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 - 
 
-### Supervisors
-
-[**Jiakai Wang**](https://jiakaiwangcn.github.io/)(<font color=red>**Primary**</font>)
-
-- Jiakai is now a Research Scientist in **ZGC Lab**, Beijing, China. He received the Ph.D. degree in 2022 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*), supervised by Prof. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and Prof. [Xianglong Liu](https://xlliu-beihang.github.io/). Before that, he obtained my BSc degree in 2018 from [Beihang University](https://www.buaa.edu.cn/) (*Summa Cum Laude*). His research interests are **Trustworthy AI** in **Computer Vision** (mainly) and **Multimodal Machine Learning**, including *Physical Adversarial Attacks and Defense*, *Transferable Adversarial Examples*, and *Security of Practical AI*.
-
-
-
-[**Xianglong Liu**](https://xlliu-beihang.github.io/)
-
-- Xianglong Liu is a Full Professor in School of Computer Science and Engineering at Beihang University. He received BS and Ph.D degrees under supervision of Prof. Wei Li, and visited DVMM Lab, Columbia University as a joint Ph.D student supervised by Prof. Shih-Fu Chang. His research interests include fast visual computing (e.g., large-scale search/understanding) and robust deep learning (e.g., network quantization, adversarial attack/defense, few shot learning). He received NSFC Excellent Young Scientists Fund, and was selected into 2019 Beijing Nova Program, MSRA StarTrack Program, and 2015 CCF Young Talents Development Program.
-
-
-
-
-
-[**Aishan Liu**](https://liuaishan.github.io/)
-
-- Aishan is an Assistant Professor in the State Key Laboratory of Software Development Environment, Department of Computer Science and Engineering at Beihang University. His research interestes are centered around AI Safety and Security, with broad interests in the areas of Adversarial Examples, Backdoor Attacks, Interpretable Deep Learning , Model Robustness, Fairness Testing, AI Testing and Evaluation, and their applications in real-world scenarios.
 
 ### Contributors
 
