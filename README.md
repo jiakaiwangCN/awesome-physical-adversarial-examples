@@ -124,23 +124,14 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 #### Sampler-oriented Attacks
 
 - \[**`2022`**\][[NIPS](https://arxiv.org/pdf/2210.03895.pdf)] Viewfool: Evaluating the robustness of visual recognition to adversarial viewpoints
-
 - \[**`2022`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.pdf)] Adversarial Texture for Fooling Person Detectors in the Physical World
-
 - \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zolfi_The_Translucent_Patch_A_Physical_and_Universal_Attack_on_Object_CVPR_2021_paper.pdf)] The Translucent Patch: A Physical and Universal Attack on Object Detectors
-
 - \[**`2020`**\][[ECCV](https://arxiv.org/pdf/1910.11099.pdf)] Adversarial T-shirt! Evading Person Detectors in A Physical World
-
 - \[**`2019`**\][[ICML](https://arxiv.org/pdf/1903.10346.pdf)] Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition
-
 - \[**`2019`**\][[arXiv](https://arxiv.org/pdf/1906.06355.pdf)] Perceptual Based Adversarial Audio Attacks
-
 - \[**`2019`**\][[NIPS](https://arxiv.org/pdf/1911.00126.pdf)] Adversarial Music: Real World Audio Adversary Against Wake-word Detection System
-
 - \[**`2018`**\][[USENIX Workshop](https://arxiv.org/pdf/1807.07769.pdf)] Physical Adversarial Examples for Object Detectors
-
 - \[**`2018`**\][[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)] Robust Physical-World Attacks on Deep Learning Visual Classification
-
 - \[**`2018`**\][[ICML](https://arxiv.org/pdf/1707.07397.pdf)] Synthesizing Robust Adversarial Examples
 
 
@@ -150,31 +141,22 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 #### The Natural Physical Adversarial Attacks
 
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Towards_Benchmarking_and_Assessing_Visual_Naturalness_of_Physical_World_Adversarial_CVPR_2023_paper.pdf)] Towards benchmarking and assessing visual naturalness of physical world adversarial attacks [**`Optimization-based`**]
-
 - \[**`2022`**\][[NIPS](https://arxiv.org/pdf/2210.06871.pdf)] Adv-attribute: Inconspicuous and transferable adversarial attack on face recognition [**`Generative`**]
-
 - \[**`2022`**\][[IEEE TIFS](https://ieeexplore.ieee.org/document/9856683)] TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems [**`Generative`**]
 
 #### The Transferable Physical Adversarial Attacks
 
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_T-SEA_Transfer-Based_Self-Ensemble_Attack_on_Object_Detection_CVPR_2023_paper.pdf)] T-sea: Transferbased self-ensemble attack on object detection [**`Optimization-based`**]
-
 - \[**`2023`**\][[Pattern Recognition](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109435)] Boosting transferability of physical attack against detectors by redistributing separable attention [**`Optimization-based`**]
-
 - \[**`2022`**\][[IEEE TIFS](https://ieeexplore.ieee.org/document/9856683)] TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems [**`Generative`**]
-
 - \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dual_Attention_Suppression_Attack_Generate_Adversarial_Camouflage_in_Physical_World_CVPR_2021_paper.pdf)] Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World [**`Optimization-based`**]
 
 #### The Generalized Physical Adversarial Attacks
 
 - \[**`2023`**\][[ICCV](https://arxiv.org/pdf/2308.07009.pdf)] ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion [**`Optimization-based`**]
-
 - \[**`2022`**\][[IEEE TIFS](https://ieeexplore.ieee.org/document/9856683)] TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems [**`Generative`**]
-
 - \[**`2021`**\][[IEEE TIP](https://ieeexplore.ieee.org/document/9632406)] Universal adversarial patch attack for automatic checkout using perceptual and attentional bias [**`Generative`**]
-
 - \[**`2020`**\][[ECCV](https://arxiv.org/pdf/1910.14667.pdf)] Bias-based Universal Adversarial Patch Attack for Automatic Check-out [**`Generative`**]
-
 - \[**`2020`**\][[ECCV](https://arxiv.org/pdf/1910.14667.pdf)] Making an invisibility cloak: Real world adversarial attacks on object detectors [**`Optimization-based`**]
 
 
