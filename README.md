@@ -240,7 +240,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 ## Collaborators
 
-**Donghua Wang**
+[**Donghua Wang**](https://winterwindwang.github.io/)
 
 - Donghua Wang is currently pursuing the Ph.D. degree with the College of Computer Science and Technology, Zhejiang University, Hangzhou, China. His research interests include adversarial machine learning, AI safety, and image processing.
 
