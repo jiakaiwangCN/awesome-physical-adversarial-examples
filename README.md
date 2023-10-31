@@ -2,7 +2,22 @@
 
 This repo collects papers about **Physical Adversarial Examples** for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to the [**Researchers**](#Contributors) who have contributed to this project!
 
+## The Differences between Digital and Physical Adversarial Examples
+<p align="center">
+<img src="https://github.com/jiakaiwangCN/awesome-physical-adversarial-examples/blob/main/physical-digital-diff.png" width="80%" />
+</p>
 
+## The Route Map of Recent Physical Adversarial Examples
+
+<p align="center">
+<img src="https://github.com/jiakaiwangCN/awesome-physical-adversarial-examples/blob/main/route_map.png" width="90%" />
+</p>
+
+## The Category Tree of Physical Adversarial Attacks and Defenses
+
+<p align="center">
+  <img src="https://github.com/jiakaiwangCN/awesome-physical-adversarial-examples/blob/main/tree.png" width="50%"/>
+</p>
 
 ## Table of Contents
 
