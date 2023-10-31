@@ -1,4 +1,5 @@
-# Awesome Physical Adversarial Examples [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Physical Adversarial Examples 
+<!----[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)--->
 
 This repo collects papers about **Physical Adversarial Examples** for anyone who wants to do research on it. We are continuously improving the project. Welcome to PR the works (papers, repositories) that are missed by the repo. Special thanks to the [**Researchers**](#Contributors) who have contributed to this project!
 
