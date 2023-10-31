@@ -242,11 +242,11 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 **Donghua Wang**
 
-- 
+- Donghua Wang is currently pursuing the Ph.D. degree with the College of Computer Science and Technology, Zhejiang University, Hangzhou, China. His research interests include adversarial machine learning, AI safety, and image processing.
 
 [**Tingsong Jiang**]
 
-- 
+- Tingsong Jiang received the B.Sc. and Ph.D. degrees from the School of Electronics Engineering and Computer Science, Peking University, Beijing, China, in 2010 and 2017, respectively. He is currently an Assistant Professor with the Defense Innovation Institute, Chinese Academy of Military Science, Beijing. His research interests include adversarial machine learning, AI safety, and knowledge graph.
 
 
 ## Contributors
