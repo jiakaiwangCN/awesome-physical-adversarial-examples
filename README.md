@@ -65,7 +65,7 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 
 #### Touchable Attacks
 
-- \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Physically_Adversarial_Infrared_Patches_With_Learnable_Shapes_and_Locations_CVPR_2023_paper.pdf)] Physically adversarial infrared patches with learnable shapes and locations [**`2D`**]<div >
+- \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Physically_Adversarial_Infrared_Patches_With_Learnable_Shapes_and_Locations_CVPR_2023_paper.pdf)] Physically adversarial infrared patches with learnable shapes and locations [**`2D`**]
 - \[**`2023`**\][[AAAI](https://arxiv.org/pdf/2212.05709.pdf)] Hotcold block: Fooling thermal infrared detectors with a novel wearable design [**`2D`**]
 - \[**`2022`**\][[TPAMI](https://arxiv.org/pdf/2212.12995.pdf)] Simultaneously optimizing perturbations and positions for black-box adversarial patch attacks [**`2D`**]
 - \[**`2022`**\][[TPAMI](https://ieeexplore.ieee.org/abstract/document/9779913)] Adversarial Sticker: A Stealthy Attack Method in the Physical World [**`2D`**]
@@ -137,14 +137,23 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 
 - \[**`2022`**\][[NIPS](https://arxiv.org/pdf/2210.03895.pdf)] Viewfool: Evaluating the robustness of visual recognition to adversarial viewpoints
 - \[**`2022`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.pdf)] Adversarial Texture for Fooling Person Detectors in the Physical World
+- [**`2022`**]\[[AAAI](https://arxiv.org/pdf/2109.00124.pdf)]Learning coated adversarial camouflages for object detectors
+- [**`2022`**]\[[ArXiv](https://arxiv.org/pdf/2211.08859.pdf)]Attacking object detector using a universal targeted label-switch patch
+- [**`2022`**]\[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Infrared_Invisible_Clothing_Hiding_From_Infrared_Detectors_at_Multiple_Angles_CVPR_2022_paper.pdf)][23:fire:]Infrared invisible clothing: Hiding from infrared detectors at multiple angles in real world
 - \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Zolfi_The_Translucent_Patch_A_Physical_and_Universal_Attack_on_Object_CVPR_2021_paper.pdf)] The Translucent Patch: A Physical and Universal Attack on Object Detectors
 - \[**`2020`**\][[ECCV](https://arxiv.org/pdf/1910.11099.pdf)] Adversarial T-shirt! Evading Person Detectors in A Physical World
+- \[**`2020`**\][[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/5443)] [92:fire:]Robust adversarial objects against deep learning models\[[code](https://github.com/jinyier/ai_pointnet_attack)]
 - \[**`2019`**\][[ICML](https://arxiv.org/pdf/1903.10346.pdf)] Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition
 - \[**`2019`**\][[arXiv](https://arxiv.org/pdf/1906.06355.pdf)] Perceptual Based Adversarial Audio Attacks
 - \[**`2019`**\][[NIPS](https://arxiv.org/pdf/1911.00126.pdf)] Adversarial Music: Real World Audio Adversary Against Wake-word Detection System
+- \[**`2019`**\][[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_advPattern_Physical-World_Attacks_on_Deep_Person_Re-Identification_via_Adversarially_Transformable_ICCV_2019_paper.pdf)]\[42:fire:]AdvPattern: physical-world attacks on deep person re-identification via adversarially transformable patterns[[code](https://github.com/whuAdv/AdvPattern)]
+- \[**`2019`**\][[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_Adversarial_Attacks_Beyond_the_Image_Space_CVPR_2019_paper.pdf)]\[130:fire:]Adversarial attacks beyond the image space
+- \[**`2019`**\][[ICML](https://arxiv.org/pdf/1904.00759.pdf)]\[134:fire:]Adversarial camera stickers: A physical camera-based attack on deep learning systems\[[code](https://github.com/yoheikikuta/adversarial-camera-stickers)]
 - \[**`2018`**\][[USENIX Workshop](https://arxiv.org/pdf/1807.07769.pdf)] Physical Adversarial Examples for Object Detectors
 - \[**`2018`**\][[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Eykholt_Robust_Physical-World_Attacks_CVPR_2018_paper.pdf)] Robust Physical-World Attacks on Deep Learning Visual Classification
 - \[**`2018`**\][[ICML](https://arxiv.org/pdf/1707.07397.pdf)] Synthesizing Robust Adversarial Examples
+- \[**`2018`**\][[ECML-PKDD](https://arxiv.org/pdf/1804.05810.pdf)]\[390:fire:]Shapeshifter: Robust physical adversarial attack on faster r-cnn object detector[[code](https://github.com/shangtse/robust-physical-attack)]\[154:star:]
+- \[**`2018`**\][[ICLR](https://openreview.net/pdf?id=SJgEl3A5tm)]\[86:fire:]Camou: Learning physical vehicle camouflages to adversarially attack detectors in the wild[[code](https://github.com/naufalso/camou-iclr2019-tf)]
 
 
 
@@ -155,6 +164,14 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Towards_Benchmarking_and_Assessing_Visual_Naturalness_of_Physical_World_Adversarial_CVPR_2023_paper.pdf)] Towards benchmarking and assessing visual naturalness of physical world adversarial attacks [**`Optimization-based`**]
 - \[**`2022`**\][[NIPS](https://arxiv.org/pdf/2210.06871.pdf)] Adv-attribute: Inconspicuous and transferable adversarial attack on face recognition [**`Generative`**]
 - \[**`2022`**\][[IEEE TIFS](https://ieeexplore.ieee.org/document/9856683)] TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems [**`Generative`**]
+- [**`2022`**]\[[ECCV](https://arxiv.org/pdf/2207.04718.pdf)][39:fire:]Physical attack on monocular depth estimation with optimal adversarial patches[**`Optimization-based`**]
+- [**`2021`**]\[[ACM MM](https://dl.acm.org/doi/abs/10.1145/3474085.3475653)]Legitimate adversarial patches: Evading human eyes and detection models in the physical world[**`Optimization-based`**]
+- [**`2021`**]\[[IEEE IoT Journal](https://arxiv.org/pdf/2106.15202.pdf)]Inconspicuous adversarial patches for fooling image-recognition systems on mobile devices[**`Generative`**]
+- [**`2021`**]\[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Hu_Naturalistic_Physical_Adversarial_Patch_for_Object_Detectors_ICCV_2021_paper.pdf)][62:fire:]Naturalistic physical adversarial patch for object detectors[**`Generative`**]
+- [**`2020`**]\[[ECCV](https://arxiv.org/pdf/1906.07927.pdf)][136:fire:]Semanticadv: Generating adversarial examples via attribute-conditioned image editing[**`Generative`**]\[[code](https://github.com/AI-secure/SemanticAdv)]\[52:star:]
+- [**`2020`**]\[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Duan_Adversarial_Camouflage_Hiding_Physical-World_Attacks_With_Natural_Styles_CVPR_2020_paper.pdf)]\[178:fire:]Adversarial camouflage: Hiding physical-world attacks with natural styles [**`Optimization-based`**]\[[code](https://github.com/RjDuan/AdvCam-Hide-Adv-with-Natural-Styles)]\[78:star:]
+- [**`2020`**]\[[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Universal_Physical_Camouflage_Attacks_on_Object_Detectors_CVPR_2020_paper.pdf)]\[142:fire:]Universal physical camouflage attacks on object detectors[**`Optimization-based`**]\[[code](https://github.com/mesunhlf/UPC-tf)]
+- [**`2019`**]\[[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/3893)][228:fire:]Perceptual-sensitive gan for generating adversarial patches[**`Generative`**]\[[code](https://github.com/liuaishan/PerceptualSensitiveGAN)] 
 
 #### The Transferable Physical Adversarial Attacks
 
@@ -170,6 +187,8 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 - \[**`2021`**\][[IEEE TIP](https://ieeexplore.ieee.org/document/9632406)] Universal adversarial patch attack for automatic checkout using perceptual and attentional bias [**`Generative`**]
 - \[**`2020`**\][[ECCV](https://arxiv.org/pdf/1910.14667.pdf)] Bias-based Universal Adversarial Patch Attack for Automatic Check-out [**`Generative`**]
 - \[**`2020`**\][[ECCV](https://arxiv.org/pdf/1910.14667.pdf)] Making an invisibility cloak: Real world adversarial attacks on object detectors [**`Optimization-based`**]
+- [**`2019`**]\[[ICCV](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wiyatno_Physical_Adversarial_Textures_That_Fool_Visual_Object_Tracking_ICCV_2019_paper.pdf)][61:fire:]Physical adversarial textures that fool visual object tracking[**`Optimization-based`**]
+- [**`2019`**]\[[AAAI]()][56:fire:]Connecting the digital and physical world: Improving the robustness of adversarial attacks[**`Generative`**]\[[code](https://github.com/stevetkjan/Digital2Physical)]
 
 
 
@@ -180,30 +199,58 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 #### Adversarial Detecting
 
 - \[**`2023`**\][[WACV](https://arxiv.org/pdf/2207.01795.pdf)] Patchzero: Defending against adversarial patch attacks by detecting and zeroing the patch
+- [**`2022`**]\[[ACM MM](https://dl.acm.org/doi/10.1145/3503161.3548362)]Defending physical adversarial attack on object detection via adversarial patch-feature energy
+- [**`2022`**]\[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Segment_and_Complete_Defending_Object_Detectors_Against_Adversarial_Patch_Attacks_CVPR_2022_paper.pdf)][23:fire:]Segment and complete: Defending object detectors against adversarial patch attacks with robust patch detection[[code](https://github.com/joellliu/SegmentAndComplete)]
+- [**`2021`**]\[[ACM MM](https://dl.acm.org/doi/abs/10.1145/3474085.3475338)]Adversarial pixel masking: A defense against physical attacks for pre-trained object detectors
+- [**`2021`**]\[[IEEE INFOCOM](https://arxiv.org/pdf/2102.05241.pdf)]Detecting localized adversarial examples: A generic approach using critical region analysis
+- [**`2021`**]\[[arXiv](https://arxiv.org/pdf/2103.08860.pdf)]Adversarial yolo: Defense human detection patch attacks via detecting adversarial patches
+- [**`2020`**]\[[IEEE S&P Workshop](https://arxiv.org/pdf/1812.00292.pdf)]\[154:fire:]Sentinet: Detecting localized universal attacks against deep learning systems
 
 #### Adversarial Denoising
 
 - \[**`2023`**\][[WACV](https://arxiv.org/pdf/2207.01795.pdf)] Patchzero: Defending against adversarial patch attacks by detecting and zeroing the patch
+- [**`2021`**]\[[ACM CCS](https://arxiv.org/pdf/2102.02956.pdf)][29:fire:]Detectorguard: Provably securing object detectors against localized patch hiding attacks\[[code](https://github.com/inspire-group/DetectorGuard)]
+- [**`2020`**]\[[ACNS Workshop](https://arxiv.org/pdf/2004.13799.pdf)][49:fire:]Minority reports defense: Defending against adversarial patches
+- \[**`2019`**\][[WACV](https://arxiv.org/pdf/1807.01216.pdf)]\[115:fire:]Local gradients smoothing: Defense against localized adversarial attacks
 
 #### Adversarial Prompting
 
-- \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf)] Angelic patches for improving third-party object detector performance
-
-
+- \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf)] Angelic patches for improving third-party object detector performance\[[code](https://github.com/averysi224/angelic_patches)]
+- [**`2023`**]\[[ICASSP](https://arxiv.org/pdf/2210.06284.pdf)]Visual prompting for adversarial robustness\[[code](https://github.com/Phoveran/vp-for-adversarial-robustness)]
+- [**`2023`**]\[[ICASSP](https://arxiv.org/pdf/2112.04720.pdf)]Amicable aid: Perturbing images to improve classification performance
+- \[**`2022`**\][[CVPR](https://arxiv.org/pdf/2204.06213.pdf)]Defensive patches for robust recognition in the physical world\[[code](https://github.com/nlsde-safety-team/DefensivePatch)]
+- \[**`2022`**\][[AAAI](https://arxiv.org/pdf/2112.05634.pdf)]Preemptive image robustification for protecting users against man-in-the-middle adversarial attacks\[[code](https://github.com/snu-mllab/preemptive-robustification)]
+- [**`2021`**]\[[NIPS](https://arxiv.org/pdf/2012.12235.pdf)][35:fire:]Unadversarial examples: Designing objects for robust vision\[[code](https://github.com/microsoft/unadversarial)][99:star:]
 
 ### Model-end Defense
 
 #### Adversarial Training
 
 - \[**`2023`**\][[arXiv](https://arxiv.org/pdf/2301.13487.pdf)] Adversarial Training of Self-supervised Monocular Depth Estimation against Physical-World Attacks
+- \[**`2022`**\][[IEEE ComSoc](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9916315)]Countering physical eavesdropper evasion with adversarial training
+- \[**`2021`**\][[ICML workshop](https://arxiv.org/pdf/2101.11453.pdf)]Meta adversarial training against universal patches\[[code](https://github.com/boschresearch/meta-adversarial-training)]
+- \[**`2020`**\][[ICLR](https://arxiv.org/pdf/1909.09552.pdf)]\[97:fire:]Defending against physically realizable attacks on image classification\[[code](https://github.com/tongwu2020/phattacks)]
+- [**`2020`**\][[ECCV Workshop](https://link.springer.com/chapter/10.1007/978-3-030-68238-5_32)]\[67:fire:]Adversarial training against location optimized adversarial patches[[code](https://github.com/sukrutrao/Adversarial-Patch-Training)]
 
 #### Model Modification
 
 - \[**`2023`**\][[IEEE FG](https://ieeexplore.ieee.org/abstract/document/10042500)] Unified detection of digital and physical face attacks
+- \[**`2023`**\][[ICASSP](https://ieeexplore.ieee.org/document/10096862)]\[33:fire:]Defending against universal patch attacks by restricting token attention in vision transformers
+- [**`2023`**]\[[arXiv](https://arxiv.org/pdf/2306.09124.pdf)]Diffender: Diffusion-based adversarial defense against patch attacks in the physical world
+- \[**`2023`**]\[[Remote sensing](https://www.mdpi.com/2072-4292/15/6/1690)]Defense against adversarial patch attacks for aerial image semantic segmentation by robust feature extraction
+- [**`2022`**]\[[arXiv](https://arxiv.org/pdf/2205.10117.pdf)]Dddm: a brain-inspired framework for robust classification
+- [**`2021`**]\[[ICCV](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Defending_Against_Universal_Adversarial_Patches_by_Clipping_Feature_Norms_ICCV_2021_paper.pdf)]Defending against universal adversarial patches by clipping feature norms
+- [**`2021`**]\[[USENIX Security Symposium](https://arxiv.org/pdf/2005.10884.pdf)][76:fire:]Patchguard: A provably robust defense against adversarial patches via small receptive fields and masking\[[code](https://github.com/inspire-group/PatchGuard)]\[55:star:]
+- \[**`2020`**]\[[DSN Workshops](https://arxiv.org/pdf/1908.02256.pdf)]Blurnet: Defense by filtering the feature maps
 
 #### Certified Robustness
 
 - \[**`2022`**\][[arXiv](https://arxiv.org/pdf/2209.05980.pdf)] Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation
+- [**`2022`**]\[[USENIX Security Symposium](https://arxiv.org/pdf/2108.09135.pdf)]\[32:fire:]Patchcleanser: Certifiably robust defense against adversarial patches for any image classifier\[[code](https://github.com/inspire-group/PatchCleanser)]
+- [**`2022`**]\[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Towards_Practical_Certifiable_Patch_Defense_With_Vision_Transformer_CVPR_2022_paper.pdf)]\[43:fire:]Towards practical certifiable patch defense with vision transformer
+- [**`2021`**]\[[ICLR]()]\[28:fire:]Efficient certified defenses against patch attacks on image classifiers
+- \[**`2020`**]\[[IEEE S&P Workshop](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9283860)]\[36:fire:]Clipped bagnet: Defending against sticker attacks with clipped bag-of-features
+- \[**`2020`**]\[[arXiv](https://arxiv.org/pdf/2003.06693.pdf)][135:fire:]Certified defenses for adversarial patches
 
 
 
