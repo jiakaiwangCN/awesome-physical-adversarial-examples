@@ -48,6 +48,8 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 - [Collaborators](#collaborators)
 - [Contributors](#contributors)
 
+[:fire:] *indicates citation*, *and* ⭐ *indicates Github stars*.   
+
 ## Surveys
 
 - \[**`2023`**\][[CoRR](https://arxiv.org/pdf/2211.01671.pdf)] Physically adversarial attacks and defenses in computer vision: A survey
@@ -56,8 +58,6 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 - \[**`2021`**\][[IJMLC](https://link.springer.com/article/10.1007/s13042-020-01242-z)] Adversarial examples: attacks and defenses in the physical world
 - \[**`2021`**\][[IEEE Access](https://ieeexplore.ieee.org/document/9614158)] Advances in adversarial attacks and defenses in computer vision: A survey
 - \[**`2018`**\][[cybersecurity](https://cybersecurity.springeropen.com/articles/10.1186/s42400-018-0012-9)] A survey of practical adversarial example attacks
-
-
 
 ## Papers-Physical Adversarial Attacks
 
@@ -72,7 +72,7 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 - \[**`2022`**\][[NIPS](https://arxiv.org/pdf/2210.15291.pdf)] Isometric 3D Adversarial Examples in the Physical World [**`3D`**]
 - \[**`2022`**\][[AAAI](https://arxiv.org/pdf/2109.07193.pdf)] FCA: Learning a 3D Full-coverage Vehicle Camouflage for Multi-view Physical Adversarial Attack [**`3D`**]
 - \[**`2021`**\][[TCYB](https://arxiv.org/pdf/1902.02067.pdf)] Daedalus: Breaking Non-Maximum Suppression in Object Detection via Adversarial Examples [**`2D`**]
-- \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dual_Attention_Suppression_Attack_Generate_Adversarial_Camouflage_in_Physical_World_CVPR_2021_paper.pdf)] Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World [**`3D`**][⭐[Code](https://github.com/nlsde-safety-team/DualAttentionAttack)]
+- \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dual_Attention_Suppression_Attack_Generate_Adversarial_Camouflage_in_Physical_World_CVPR_2021_paper.pdf)] Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World [**`3D`**][⭐[Code](https://github.com/nlsde-safety-team/DualAttentionAttack)][42⭐]
 - \[**`2020`**\][[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Tu_Physically_Realizable_Adversarial_Examples_for_LiDAR_Object_Detection_CVPR_2020_paper.pdf)] Physically Realizable Adversarial Examples for LiDAR Object Detection [**`3D`**]
 - \[**`2020`**\][[ECCV](https://arxiv.org/pdf/1910.11099.pdf)] Adversarial T-shirt! Evading Person Detectors in A Physical World [**`3D`**]
 - \[**`2019`**\][[ACM TOPS](https://arxiv.org/pdf/1801.00349.pdf)] A General Framework for Adversarial Examples with Objectives [**`2D`**]
@@ -178,7 +178,7 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_T-SEA_Transfer-Based_Self-Ensemble_Attack_on_Object_Detection_CVPR_2023_paper.pdf)] T-sea: Transferbased self-ensemble attack on object detection [**`Optimization-based`**]
 - \[**`2023`**\][[Pattern Recognition](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109435)] Boosting transferability of physical attack against detectors by redistributing separable attention [**`Optimization-based`**]
 - \[**`2022`**\][[IEEE TIFS](https://ieeexplore.ieee.org/document/9856683)] TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems [**`Generative`**]
-- \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dual_Attention_Suppression_Attack_Generate_Adversarial_Camouflage_in_Physical_World_CVPR_2021_paper.pdf)] Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World [**`Optimization-based`**]
+- \[**`2021`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Dual_Attention_Suppression_Attack_Generate_Adversarial_Camouflage_in_Physical_World_CVPR_2021_paper.pdf)][96:fire:] Dual Attention Suppression Attack: Generate Adversarial Camouflage in Physical World [**`Optimization-based`**]
 
 #### The Generalized Physical Adversarial Attacks
 
