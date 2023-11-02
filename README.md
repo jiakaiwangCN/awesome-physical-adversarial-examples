@@ -48,7 +48,7 @@ This repo collects papers about **Physical Adversarial Examples** for anyone who
 - [Collaborators](#collaborators)
 - [Contributors](#contributors)
 
-[:fire:] *indicates citation*, *and* [⭐] *indicates Github stars*.   
+[:fire:] *indicates citation number*, *and* [⭐] *indicates Github star number*.   
 
 ## Surveys
 
