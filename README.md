@@ -280,7 +280,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 **Jin Hu**
 
-- 
+- Jin Hu is currently working towards the degree of Doctor of Engineering in the School of Computer Science and Engineering, Beihang University and Zhongguancun Laboratory. His research interests include _Adversarial Attack, Generative Modeling and Trustworthy AI_.
 
 **Siyang wu**
 
