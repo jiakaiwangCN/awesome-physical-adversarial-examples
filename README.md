@@ -276,7 +276,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 **Zhengquan Sun**
 
-- 
+- Zhengquan Sun  is a senior student at Beihang University, majoring in artificial intelligence. He is about to continue pursuing his doctoral degree at Beihang, and his current research direction is measurement and interpretable analysis of complex intelligent systems. He is committed to developing safer and more reliable artificial intelligence.
 
 **Jin Hu**
 
@@ -288,7 +288,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 **Zixin Yin**
 
-- 
+- Zixin Yin is currently pursuing a Master's Degree in the School of Computer Science and Engineering at Beihang University. Zixin's current academic focus revolves around physical adversarial attacks and defenses, as well as the model trustworthiness.
 
 ### Alumnus
 
