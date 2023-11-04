@@ -284,7 +284,7 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 
 **Siyang wu**
 
-- 
+- Siyang Wu is currently working towards the degree of Doctor of Engineering in Electronic and Information in the School of Computer Science and Engineering, Beihang University and Zhongguancun Laboratory. His research interests include AI safety, adversarial defense and object detection.
 
 **Zixin Yin**
 
