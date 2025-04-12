@@ -134,6 +134,7 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### Environment-oriented Attacks
 
+- \[**`2025`**\][[ICASSP](https://ieeexplore.ieee.org/abstract/document/10889070)] Generating Targeted Universal Adversarial Perturbation against Automatic Speech Recognition via Phoneme Tailoring [[Code](https://github.com/difftransattack/dta)]
 - \[**`2022`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Suryanto_DTA_Physical_Camouflage_Attacks_Using_Differentiable_Transformation_Network_CVPR_2022_paper.pdf)] Dta: Physical camouflage attacks using differentiable transformation network [[Code](https://github.com/difftransattack/dta)]
 - \[**`2021`**\]\[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Sayles_Invisible_Perturbations_Physical_Adversarial_Examples_Exploiting_the_Rolling_Shutter_Effect_CVPR_2021_paper.pdf)\][53:fire:] Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect [[Code](https://github.com/earlence-security/invis-perturbations)]
 - \[**`2021`**\][[AAAI](https://cdn.aaai.org/ojs/16211/16211-13-19705-1-2-20210518.pdf)] Towards Universal Physical Attacks on Single Object Tracking
@@ -146,6 +147,9 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### Sampler-oriented Attacks
 
+- \[**`2025`**\][[Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231224016862)] Fooling human detectors via robust and visually natural adversarial patches
+- \[**`2025`**\][[Applied Soft Computing](https://www.sciencedirect.com/science/article/abs/pii/S1568494625002923)] AdvGrid: A multi-view black-box attack on infrared pedestrian detectors in the physical world
+- \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guesmi_DAP_A_Dynamic_Adversarial_Patch_for_Evading_Person_Detectors_CVPR_2024_paper.pdf)] DAP: A Dynamic Adversarial Patch for Evading Person Detectors
 - \[**`2022`**\][[NIPS](https://arxiv.org/pdf/2210.03895.pdf)] Viewfool: Evaluating the robustness of visual recognition to adversarial viewpoints [[Code](https://github.com/Heathcliff-saku/ViewFool_)]
 - [**`2022`**]\[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Infrared_Invisible_Clothing_Hiding_From_Infrared_Detectors_at_Multiple_Angles_CVPR_2022_paper.pdf)\][23:fire:] Infrared invisible clothing: Hiding from infrared detectors at multiple angles in real world
 - \[**`2022`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.pdf)\][46:fire:] Adversarial Texture for Fooling Person Detectors in the Physical World [[Code](https://github.com/WhoTHU/Adversarial_Texture)]
@@ -187,6 +191,9 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### The Transferable Physical Adversarial Attacks
 
+- \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Towards_Transferable_Targeted_3D_Adversarial_Attack_in_the_Physical_World_CVPR_2024_paper.pdf)] Towards Transferable Targeted 3D Adversarial Attack in the Physical World [**`Optimization-based`**]\[[Code](https://github.com/Aries-iai/TT3D)]
+- \[**`2024`**\][[IJCV](https://link.springer.com/article/10.1007/s11263-024-02098-4)] Generate Transferable Adversarial Physical Camouflages via Triplet Attention Suppression [**`Optimization-based`**]
+- \[**`2024`**\][[Neurocomputing](https://cs.nju.edu.cn/rinc/publish/download/2024/2024_EAP.pdf)] EAP: An effective black-box impersonation adversarial patch attack method on face recognition in the physical world [**`Optimization-based`**]
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_T-SEA_Transfer-Based_Self-Ensemble_Attack_on_Object_Detection_CVPR_2023_paper.pdf)] T-sea: Transferbased self-ensemble attack on object detection [**`Optimization-based`**]\[[Code](https://github.com/vdigpku/t-sea)]
 - \[**`2023`**\][[Pattern Recognition](https://dl.acm.org/doi/abs/10.1016/j.patcog.2023.109435)] Boosting transferability of physical attack against detectors by redistributing separable attention [**`Optimization-based`**]\[[Code](https://github.com/zhangyu13a/transPhyAtt)]
 - \[**`2022`**\][[IEEE TIFS](https://ieeexplore.ieee.org/document/9856683)] TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems [**`Generative`**]
@@ -210,6 +217,8 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### Adversarial Detecting
 
+- \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_NAPGuard_Towards_Detecting_Naturalistic_Adversarial_Patches_CVPR_2024_paper.pdf)] NAPGuard: Towards Detecting Naturalistic Adversarial Patches [[Code](https://github.com/wsynuiag/NAPGaurd)]
+- \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Jing_PAD_Patch-Agnostic_Defense_against_Adversarial_Patch_Attacks_CVPR_2024_paper.pdf)] PAD: Patch-Agnostic Defense against Adversarial Patch Attacks [[Code](https://github.com/Lihua-Jing/PAD)]
 - \[**`2023`**\][[WACV](https://arxiv.org/pdf/2207.01795.pdf)] Patchzero: Defending against adversarial patch attacks by detecting and zeroing the patch
 - [**`2022`**]\[[ACM MM](https://dl.acm.org/doi/10.1145/3503161.3548362)] Defending physical adversarial attack on object detection via adversarial patch-feature energy
 - [**`2022`**]\[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Segment_and_Complete_Defending_Object_Detectors_Against_Adversarial_Patch_Attacks_CVPR_2022_paper.pdf)][23:fire:] Segment and complete: Defending object detectors against adversarial patch attacks with robust patch detection [[Code](https://github.com/joellliu/SegmentAndComplete)]
@@ -279,6 +288,10 @@ Our team is suuported by the **ZGC Lab** and the **DIG group** of the **State Ke
 **Zhengquan Sun**
 
 - Zhengquan Sun  is a senior student at Beihang University, majoring in artificial intelligence. He is about to continue pursuing his doctoral degree at Beihang, and his current research direction is measurement and interpretable analysis of complex intelligent systems. He is committed to developing safer and more reliable artificial intelligence.
+
+**Xiaoxi Yu**
+
+- Xiaoxi Yu is currently pursuing a master's degree at the National Superior College for Engineers, Beihang University. Her research interests include backdoor learning, adversarial attacks, and AI safety.
 
 **Jin Hu**
 
