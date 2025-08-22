@@ -69,6 +69,11 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### Touchable Attacks
 
+- \[**`2024`**\][[TGRS](https://ieeexplore.ieee.org/abstract/document/10521633)] Hide in thicket: Generating imperceptible and rational adversarial perturbations on 3d point clouds [**`2D`**][[Code](https://github.com/WindVChen/VCO-AP)]
+- \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Hide_in_Thicket_Generating_Imperceptible_and_Rational_Adversarial_Perturbations_on_CVPR_2024_paper.pdf)] Local aggressive and physically realizable adversarial attacks on 3D point cloud [**`3D`**][[Code](https://github.com/TRLou/HiT-ADV)]
+- \[**`2025`**\][[TCSVT](https://ieeexplore.ieee.org/abstract/document/10824853)] A Unified Framework for Adversarial Patch Attacks against Visual 3D Object Detection in Autonomous Driving [**`2D`**]
+- \[**`2025`**\][[TIP](https://ieeexplore.ieee.org/abstract/document/10838314)] Physically Realizable Adversarial Creating Attack against Vision-based BEV Space 3D Object Detection [**`2D`**]
+- \[**`2024`**\][[TGRS](https://ieeexplore.ieee.org/abstract/document/10521633)] Digital-to-Physical visual consistency optimization for adversarial patch generation in remote sensing scenes [**`2D`**][[Code](https://github.com/WindVChen/VCO-AP)]
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Physically_Adversarial_Infrared_Patches_With_Learnable_Shapes_and_Locations_CVPR_2023_paper.pdf)] Physically adversarial infrared patches with learnable shapes and locations [**`2D`**]
 - \[**`2023`**\][[AAAI](https://arxiv.org/pdf/2212.05709.pdf)] Hotcold block: Fooling thermal infrared detectors with a novel wearable design \[**`2D`**\][[Code](https://github.com/weihui1308/HOTCOLDBlock)]
 - \[**`2023`**\][[USENIX Security Symposium](https://arxiv.org/pdf/2302.09491.pdf)] X-Adv: Physical Adversarial Object Attacks against X-ray Prohibited Item Detections \[**`3D`**\][[Code](https://github.com/DIG-Beihang/X-adv)]
@@ -98,6 +103,11 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### Untouchable Attacks
 
+
+- \[**`2024`**\][[TIFS](https://ieeexplore.ieee.org/abstract/document/10662949/)] Adversarial Examples Against WiFi Fingerprint-Based Localization in the Physical World \[**`WIFI`**\][[Code](https://github.com/cvlab-columbia/voicecamo)]
+- \[**`2024`**\][[S&P](https://ieeexplore.ieee.org/abstract/document/10646791/)] ALIF: Low-cost adversarial audio attacks on black-box speech platforms using linguistic features \[**`Audio/Speech`**\][[Code](https://github.com/TASER2023/TASER)]
+- \[**`2024`**\][[Computer Vision and Image Understanding](https://www.sciencedirect.com/science/article/pii/S1077314223002576)] Adversarial Neon Beam: A light-based physical attack to DNNs \[**`Lighting`**\][[Code](https://github.com/ChengYinHu/https://github.com/ChengYinHu/AdvNB)]
+- \[**`2024`**\][[WACV](https://openaccess.thecvf.com/content/WACV2024/papers/Hsiao_Natural_Light_Can_Also_Be_Dangerous_Traffic_Sign_Misinterpretation_Under_WACV_2024_paper.pdf)] Natural Light Can Also Be Dangerous: Traffic Sign Misinterpretation Under Adversarial Natural Light Attacks \[**`Lighting`**\][[Code](https://github.com/BlueDyee/natural-light-attack)]
 - \[**`2023`**\][[ICCV](https://arxiv.org/pdf/2307.07653.pdf)] RFLA: A Stealthy Reflected Light Adversarial Attack in the Physical World \[**`Lighting`**\][[Code](https://github.com/winterwindwang/RFLA)]
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Physical-World_Optical_Adversarial_Attacks_on_3D_Face_Recognition_CVPR_2023_paper.pdf)] Physical-world optical adversarial attacks on 3d face recognition [**`Lighting`**]
 - \[**`2022`**\]\[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhong_Shadows_Can_Be_Dangerous_Stealthy_and_Effective_Physical-World_Adversarial_Attack_CVPR_2022_paper.pdf)\][65:fire:] Shadows can be dangerous: Stealthy and effective physical-world adversarial attack by natural phenomenon \[**`Lighting`**\][[Code](https://github.com/hncszyq/ShadowAttack)]
@@ -134,7 +144,12 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### Environment-oriented Attacks
 
+
 - \[**`2025`**\][[ICASSP](https://ieeexplore.ieee.org/abstract/document/10889070)] Generating Targeted Universal Adversarial Perturbation against Automatic Speech Recognition via Phoneme Tailoring [[Code](https://github.com/difftransattack/dta)]
+- \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Physical_3D_Adversarial_Attacks_against_Monocular_Depth_Estimation_in_Autonomous_CVPR_2024_paper.pdf)] Physical 3D adversarial attacks against monocular depth estimation in autonomous driving [[Code](https://github.com/Gandolfczjh/3D2Fool)]
+- \[**`2024`**\][[TIFS](https://ieeexplore.ieee.org/abstract/document/10478138/)] Adversarial relighting against face recognition 
+- \[**`2024`**\][[TDSC](https://ieeexplore.ieee.org/abstract/document/10398418)] LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection 
+- \[**`2024`**\][[Computers & Security](https://www.sciencedirect.com/science/article/abs/pii/S0167404823004492)] Local aggressive and physically realizable adversarial attacks on 3D point cloud [[Code](https://github.com/Chenfeng1271/L3A)]
 - \[**`2022`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Suryanto_DTA_Physical_Camouflage_Attacks_Using_Differentiable_Transformation_Network_CVPR_2022_paper.pdf)] Dta: Physical camouflage attacks using differentiable transformation network [[Code](https://github.com/difftransattack/dta)]
 - \[**`2021`**\]\[[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Sayles_Invisible_Perturbations_Physical_Adversarial_Examples_Exploiting_the_Rolling_Shutter_Effect_CVPR_2021_paper.pdf)\][53:fire:] Invisible Perturbations: Physical Adversarial Examples Exploiting the Rolling Shutter Effect [[Code](https://github.com/earlence-security/invis-perturbations)]
 - \[**`2021`**\][[AAAI](https://cdn.aaai.org/ojs/16211/16211-13-19705-1-2-20210518.pdf)] Towards Universal Physical Attacks on Single Object Tracking
@@ -150,6 +165,9 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 - \[**`2025`**\][[Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231224016862)] Fooling human detectors via robust and visually natural adversarial patches
 - \[**`2025`**\][[Applied Soft Computing](https://www.sciencedirect.com/science/article/abs/pii/S1568494625002923)] AdvGrid: A multi-view black-box attack on infrared pedestrian detectors in the physical world
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guesmi_DAP_A_Dynamic_Adversarial_Patch_for_Evading_Person_Detectors_CVPR_2024_paper.pdf)] DAP: A Dynamic Adversarial Patch for Evading Person Detectors
+- \[**`2024`**\][[TIFS](https://ieeexplore.ieee.org/abstract/document/10583962/)] Stealthy and effective physical adversarial attacks in autonomous driving 
+- \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Physical_3D_Adversarial_Attacks_against_Monocular_Depth_Estimation_in_Autonomous_CVPR_2024_paper.pdf)] Physical 3D adversarial attacks against monocular depth estimation in autonomous driving [[Code](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Physical_3D_Adversarial_Attacks_against_Monocular_Depth_Estimation_in_Autonomous_CVPR_2024_paper.pdf)]
+- \[**`2024`**\][[Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S089360802400234X)] Adversarial infrared blocks: A multi-view black-box attack to thermal infrared detectors in physical world [[Code](https://github.com/ChengYinHu/AdvIB)]
 - \[**`2022`**\][[NIPS](https://arxiv.org/pdf/2210.03895.pdf)] Viewfool: Evaluating the robustness of visual recognition to adversarial viewpoints [[Code](https://github.com/Heathcliff-saku/ViewFool_)]
 - [**`2022`**]\[[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhu_Infrared_Invisible_Clothing_Hiding_From_Infrared_Detectors_at_Multiple_Angles_CVPR_2022_paper.pdf)\][23:fire:] Infrared invisible clothing: Hiding from infrared detectors at multiple angles in real world
 - \[**`2022`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.pdf)\][46:fire:] Adversarial Texture for Fooling Person Detectors in the Physical World [[Code](https://github.com/WhoTHU/Adversarial_Texture)]
@@ -176,6 +194,7 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### The Natural Physical Adversarial Attacks
 
+- \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guesmi_DAP_A_Dynamic_Adversarial_Patch_for_Evading_Person_Detectors_CVPR_2024_paper.pdf)] DAP: A Dynamic Adversarial Patch for Evading Person Detectors [**`Optimization-based`**]
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Towards_Benchmarking_and_Assessing_Visual_Naturalness_of_Physical_World_Adversarial_CVPR_2023_paper.pdf)] Towards benchmarking and assessing visual naturalness of physical world adversarial attacks \[**`Generative`**\][[Code](https://github.com/zhangsn-19/PAN)]
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Physically_Realizable_Natural-Looking_Clothing_Textures_Evade_Person_Detectors_via_3D_CVPR_2023_paper.pdf)] Physically Realizable Natural-Looking Clothing Textures Evade Person Detectors via 3D Modeling [**`Optimization-based`**]
 - \[**`2022`**\][[NIPS](https://arxiv.org/pdf/2210.06871.pdf)] Adv-attribute: Inconspicuous and transferable adversarial attack on face recognition [**`Generative`**]
