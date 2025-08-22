@@ -69,10 +69,10 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### Touchable Attacks
 
-- \[**`2024`**\][[TGRS](https://ieeexplore.ieee.org/abstract/document/10521633)] Hide in thicket: Generating imperceptible and rational adversarial perturbations on 3d point clouds [**`2D`**][[Code](https://github.com/WindVChen/VCO-AP)]
-- \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Hide_in_Thicket_Generating_Imperceptible_and_Rational_Adversarial_Perturbations_on_CVPR_2024_paper.pdf)] Local aggressive and physically realizable adversarial attacks on 3D point cloud [**`3D`**][[Code](https://github.com/TRLou/HiT-ADV)]
 - \[**`2025`**\][[TCSVT](https://ieeexplore.ieee.org/abstract/document/10824853)] A Unified Framework for Adversarial Patch Attacks against Visual 3D Object Detection in Autonomous Driving [**`2D`**]
 - \[**`2025`**\][[TIP](https://ieeexplore.ieee.org/abstract/document/10838314)] Physically Realizable Adversarial Creating Attack against Vision-based BEV Space 3D Object Detection [**`2D`**]
+- \[**`2024`**\][[TGRS](https://ieeexplore.ieee.org/abstract/document/10521633)] Hide in thicket: Generating imperceptible and rational adversarial perturbations on 3d point clouds [**`2D`**][[Code](https://github.com/WindVChen/VCO-AP)]
+- \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Lou_Hide_in_Thicket_Generating_Imperceptible_and_Rational_Adversarial_Perturbations_on_CVPR_2024_paper.pdf)] Local aggressive and physically realizable adversarial attacks on 3D point cloud [**`3D`**][[Code](https://github.com/TRLou/HiT-ADV)]
 - \[**`2024`**\][[TGRS](https://ieeexplore.ieee.org/abstract/document/10521633)] Digital-to-Physical visual consistency optimization for adversarial patch generation in remote sensing scenes [**`2D`**][[Code](https://github.com/WindVChen/VCO-AP)]
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Wei_Physically_Adversarial_Infrared_Patches_With_Learnable_Shapes_and_Locations_CVPR_2023_paper.pdf)] Physically adversarial infrared patches with learnable shapes and locations [**`2D`**]
 - \[**`2023`**\][[AAAI](https://arxiv.org/pdf/2212.05709.pdf)] Hotcold block: Fooling thermal infrared detectors with a novel wearable design \[**`2D`**\][[Code](https://github.com/weihui1308/HOTCOLDBlock)]
