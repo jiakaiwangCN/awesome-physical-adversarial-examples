@@ -54,6 +54,7 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 ## Surveys
 - \[**`2025`**\][[ACM Computing Surveys](https://dl.acm.org/doi/pdf/10.1145/3719292)] Out-of-distribution data: an acquaintance of adversarial examples-a survey
+- \[**`2024`**\][[ESWA](https://www.sciencedirect.com/science/article/abs/pii/S0957417424006274)] State-of-the-art optical-based physical adversarial attacks for deep learning computer vision systems
 - \[**`2024`**\][[TPAMI](https://arxiv.org/pdf/2209.15179.pdf)] Physical adversarial attack meets computer vision: A decade survey
 - \[**`2023`**\][[CoRR](https://arxiv.org/pdf/2211.01671.pdf)] Physically adversarial attacks and defenses in computer vision: A survey
 - \[**`2023`**\][[arXiv](https://arxiv.org/pdf/2209.14262.pdf)] A survey on physical adversarial attack in computer vision
@@ -69,6 +70,8 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### Touchable Attacks
 
+- \[**`2025`**\][[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/33110)] PhyCamo: A Robust Physical Camouflage via Contrastive Learning for
+Multi-View Physical Adversarial Attack [**`2D`**]
 - \[**`2025`**\][[TCSVT](https://ieeexplore.ieee.org/abstract/document/10824853)] A Unified Framework for Adversarial Patch Attacks against Visual 3D Object Detection in Autonomous Driving [**`2D`**]
 - \[**`2025`**\][[TIP](https://ieeexplore.ieee.org/abstract/document/10838314)] Physically Realizable Adversarial Creating Attack against Vision-based BEV Space 3D Object Detection [**`2D`**]
 - \[**`2024`**\][[TGRS](https://ieeexplore.ieee.org/abstract/document/10521633)] Hide in thicket: Generating imperceptible and rational adversarial perturbations on 3d point clouds [**`2D`**][[Code](https://github.com/WindVChen/VCO-AP)]
@@ -104,6 +107,8 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 #### Untouchable Attacks
 
 
+- \[**`2025`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_ProjAttacker_A_Configurable_Physical_Adversarial_Attack_for_Face_Recognition_via_CVPR_2025_paper.html)] ProjAttacker: A Configurable Physical Adversarial Attack for Face Recognition via Projector \[**`Lighting`**\]
+- \[**`2025`**\][[ICML](https://openreview.net/forum?id=7VLYI1naAr)] Omni-Angle Assault: An Invisible and Powerful Physical Adversarial Attack on Face Recognition \[**`Lighting`**\]
 - \[**`2024`**\][[TIFS](https://ieeexplore.ieee.org/abstract/document/10662949/)] Adversarial Examples Against WiFi Fingerprint-Based Localization in the Physical World \[**`WIFI`**\][[Code](https://github.com/cvlab-columbia/voicecamo)]
 - \[**`2024`**\][[S&P](https://ieeexplore.ieee.org/abstract/document/10646791/)] ALIF: Low-cost adversarial audio attacks on black-box speech platforms using linguistic features \[**`Audio/Speech`**\][[Code](https://github.com/TASER2023/TASER)]
 - \[**`2024`**\][[Computer Vision and Image Understanding](https://www.sciencedirect.com/science/article/pii/S1077314223002576)] Adversarial Neon Beam: A light-based physical attack to DNNs \[**`Lighting`**\][[Code](https://github.com/ChengYinHu/https://github.com/ChengYinHu/AdvNB)]
