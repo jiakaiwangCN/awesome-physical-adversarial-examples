@@ -70,6 +70,8 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### Touchable Attacks
 
+- \[**`2025`**\][[USENIX Security Symposium](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-802-kobayashi.pdf)] Invisible but Detected: Physical Adversarial Shadow Attack and Defense on LiDAR Object Detection [**`2D`**][[Code](https://zenodo.org/records/14719074)]
+- \[**`2025`**\][[ICLR](https://arxiv.org/pdf/2501.05783)] UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping [**`2D`**][[Code](https://github.com/PolyLiYJ/UV-Attack)]
 - \[**`2025`**\][[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/33110)] PhyCamo: A Robust Physical Camouflage via Contrastive Learning for
 Multi-View Physical Adversarial Attack [**`2D`**]
 - \[**`2025`**\][[TCSVT](https://ieeexplore.ieee.org/abstract/document/10824853)] A Unified Framework for Adversarial Patch Attacks against Visual 3D Object Detection in Autonomous Driving [**`2D`**]
