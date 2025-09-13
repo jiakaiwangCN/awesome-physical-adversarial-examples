@@ -69,7 +69,7 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 ### Manufacturing Oriented Attacks
 
 #### Touchable Attacks
-
+- \[**`2025`**\][[ICCV](https://arxiv.org/abs/2507.01367)] 3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation[**`3D`**] [[Code](https://github.com/TRLou/PGA)]
 - \[**`2025`**\][[USENIX Security Symposium](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-802-kobayashi.pdf)] Invisible but Detected: Physical Adversarial Shadow Attack and Defense on LiDAR Object Detection [**`2D`**][[Code](https://zenodo.org/records/14719074)]
 - \[**`2025`**\][[ICLR](https://arxiv.org/pdf/2501.05783)] UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping [**`2D`**][[Code](https://github.com/PolyLiYJ/UV-Attack)]
 - \[**`2025`**\][[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/33110)] PhyCamo: A Robust Physical Camouflage via Contrastive Learning for
@@ -217,6 +217,7 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 
 #### The Transferable Physical Adversarial Attacks
 
+- \[**`2025`**\][[ICCV](https://arxiv.org/abs/2507.01367)] 3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation[**`Optimization-based`**] [[Code](https://github.com/TRLou/PGA)]
 - \[**`2025`**\][[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32870)] Breaking barriers in physical-world adversarial examples: Improving robustness and transferability via robust feature [**`Optimization-based`**]\[[Code](https://github.com/CGCL-codes/RFCoA)]
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Towards_Transferable_Targeted_3D_Adversarial_Attack_in_the_Physical_World_CVPR_2024_paper.pdf)] Towards Transferable Targeted 3D Adversarial Attack in the Physical World [**`Optimization-based`**]\[[Code](https://github.com/Aries-iai/TT3D)]
 - \[**`2024`**\][[IJCV](https://link.springer.com/article/10.1007/s11263-024-02098-4)] Generate Transferable Adversarial Physical Camouflages via Triplet Attention Suppression [**`Optimization-based`**]
