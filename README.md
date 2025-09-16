@@ -69,6 +69,8 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 ### Manufacturing Oriented Attacks
 
 #### Touchable Attacks
+
+- \[**`2025`**\][[IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11045780)] Physical Adversarial Camouflage Generation in Optical Remote Sensing Images [**`Generation-based`**]
 - \[**`2025`**\][[ICCV](https://arxiv.org/abs/2507.01367)] 3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation[**`3D`**] [[Code](https://github.com/TRLou/PGA)]
 - \[**`2025`**\][[USENIX Security Symposium](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-802-kobayashi.pdf)] Invisible but Detected: Physical Adversarial Shadow Attack and Defense on LiDAR Object Detection [**`2D`**][[Code](https://zenodo.org/records/14719074)]
 - \[**`2025`**\][[ICLR](https://arxiv.org/pdf/2501.05783)] UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping [**`2D`**][[Code](https://github.com/PolyLiYJ/UV-Attack)]
@@ -200,7 +202,7 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 ### Other PAEs
 
 #### The Natural Physical Adversarial Attacks
-
+- \[**`2025`**\][[IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11045780)] Physical Adversarial Camouflage Generation in Optical Remote Sensing Images [**`Generation-based`**]
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guesmi_DAP_A_Dynamic_Adversarial_Patch_for_Evading_Person_Detectors_CVPR_2024_paper.pdf)] DAP: A Dynamic Adversarial Patch for Evading Person Detectors [**`Optimization-based`**]
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Towards_Benchmarking_and_Assessing_Visual_Naturalness_of_Physical_World_Adversarial_CVPR_2023_paper.pdf)] Towards benchmarking and assessing visual naturalness of physical world adversarial attacks \[**`Generative`**\][[Code](https://github.com/zhangsn-19/PAN)]
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_Physically_Realizable_Natural-Looking_Clothing_Textures_Evade_Person_Detectors_via_3D_CVPR_2023_paper.pdf)] Physically Realizable Natural-Looking Clothing Textures Evade Person Detectors via 3D Modeling [**`Optimization-based`**]
@@ -244,7 +246,7 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 ### Data-end Defense
 
 #### Adversarial Detecting
-
+- \[**`2025`**\][[IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10879251)] Laser Guard: Efficiently Detecting Laser-Based Physical Adversarial Attacks in Autonomous Driving [[Code](https://github.com/lichijunjun/iseeyou)]
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_NAPGuard_Towards_Detecting_Naturalistic_Adversarial_Patches_CVPR_2024_paper.pdf)] NAPGuard: Towards Detecting Naturalistic Adversarial Patches [[Code](https://github.com/wsynuiag/NAPGaurd)]
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Jing_PAD_Patch-Agnostic_Defense_against_Adversarial_Patch_Attacks_CVPR_2024_paper.pdf)] PAD: Patch-Agnostic Defense against Adversarial Patch Attacks [[Code](https://github.com/Lihua-Jing/PAD)]
 - \[**`2024`**\][[TPS](https://dl.acm.org/doi/full/10.1145/3661822)] Toward robust ASR system against audio adversarial examples using agitated logit 
