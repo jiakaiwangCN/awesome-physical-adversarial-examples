@@ -108,7 +108,7 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 
 #### Untouchable Attacks
 
-
+- \[**`2025`**\][[IEEE TDSC](https://ieeexplore.ieee.org/abstract/document/10840279)] MagShadow: Physical Adversarial Example Attacks via Electromagnetic Injection \[**`Electromagnetic Signals`**\]
 - \[**`2025`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_ProjAttacker_A_Configurable_Physical_Adversarial_Attack_for_Face_Recognition_via_CVPR_2025_paper.html)] ProjAttacker: A Configurable Physical Adversarial Attack for Face Recognition via Projector \[**`Lighting`**\]
 - \[**`2025`**\][[ICML](https://openreview.net/forum?id=7VLYI1naAr)] Omni-Angle Assault: An Invisible and Powerful Physical Adversarial Attack on Face Recognition \[**`Lighting`**\]
 - \[**`2024`**\][[TIFS](https://ieeexplore.ieee.org/abstract/document/10662949/)] Adversarial Examples Against WiFi Fingerprint-Based Localization in the Physical World \[**`WIFI`**\][[Code](https://github.com/cvlab-columbia/voicecamo)]
@@ -168,7 +168,7 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 - \[**`2019`**\]\[[ICML](https://arxiv.org/pdf/1903.10346.pdf)\][397:fire:] Imperceptible, Robust, and Targeted Adversarial Examples for Automatic Speech Recognition [[Code](https://github.com/yaq007/cleverhans/tree/master/examples/adversarial_asr)]
 
 #### Sampler-oriented Attacks
-
+- \[**`2025`**\][[AAAI](file:///C:/Users/king_/AppData/Local/Temp/MicrosoftEdgeDownloads/8359faf8-10d9-486d-bfb2-ce8ec51f26b9/32555-Article%20Text-36623-1-2-20250410.pdf)] Adversarial Attacks on Event-Based Pedestrian Detectors: A Physical Approach
 - \[**`2025`**\][[Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231224016862)] Fooling human detectors via robust and visually natural adversarial patches
 - \[**`2025`**\][[Applied Soft Computing](https://www.sciencedirect.com/science/article/abs/pii/S1568494625002923)] AdvGrid: A multi-view black-box attack on infrared pedestrian detectors in the physical world
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guesmi_DAP_A_Dynamic_Adversarial_Patch_for_Evading_Person_Detectors_CVPR_2024_paper.pdf)] DAP: A Dynamic Adversarial Patch for Evading Person Detectors
