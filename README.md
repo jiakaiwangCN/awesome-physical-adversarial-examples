@@ -70,6 +70,7 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 
 #### Touchable Attacks
 
+- \[**`2025`**\][[IEEE TPAMI](https://ieeexplore.ieee.org/document/11219170)] DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time [**`Generation-based`**]
 - \[**`2025`**\][[IEEE TIP](https://ieeexplore.ieee.org/abstract/document/11045780)] Physical Adversarial Camouflage Generation in Optical Remote Sensing Images [**`Generation-based`**]
 - \[**`2025`**\][[ICCV](https://arxiv.org/abs/2507.01367)] 3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation[**`3D`**] [[Code](https://github.com/TRLou/PGA)]
 - \[**`2025`**\][[USENIX Security Symposium](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-802-kobayashi.pdf)] Invisible but Detected: Physical Adversarial Shadow Attack and Defense on LiDAR Object Detection [**`2D`**][[Code](https://zenodo.org/records/14719074)]
