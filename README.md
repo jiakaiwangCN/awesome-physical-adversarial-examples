@@ -53,6 +53,7 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 [:fire:] *indicates citation number*, *and* [⭐] *indicates Github star number*.   
 
 ## Surveys
+- \[**`2026`**\][[Neurocomputing]] A survey on physical adversarial attacks against face recognition systems
 - \[**`2025`**\][[ACM Computing Surveys](https://dl.acm.org/doi/pdf/10.1145/3719292)] Out-of-distribution data: an acquaintance of adversarial examples-a survey
 - \[**`2024`**\][[ESWA](https://www.sciencedirect.com/science/article/abs/pii/S0957417424006274)] State-of-the-art optical-based physical adversarial attacks for deep learning computer vision systems
 - \[**`2024`**\][[TPAMI](https://arxiv.org/pdf/2209.15179.pdf)] Physical adversarial attack meets computer vision: A decade survey
@@ -71,8 +72,12 @@ Our paper can be found at [here](https://arxiv.org/abs/2311.01473)!😄😄😄
 #### Touchable Attacks
 
 
-- \[**`2025`**\][[IEEE TPAMI](https://ieeexplore.ieee.org/document/11219170)] DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time [**`2D`**]
-- \[**`2025`**\][[NeurIPS](https://openreview.net/forum?id=kITPSoTBUo)] Exploring Semantic-constrained Adversarial Example with Instruction Uncertainty Reduction [**`3D`**]
+- [**`2025`**][[IEEE TPAMI](https://ieeexplore.ieee.org/document/11219170)] DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time [**`2D`**]
+- [**`2025`**][[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_ACAttack)] ACAttack: Adaptive Cross-Attacking RGB-T Tracker via Multi-Modal Response Decoupling [**`2D`**][[Code](https://github.com/junkai-zhang-cs/ACAttack)]
+- \[**`2025`**\][[ICCVW]] Paired-Sampling Contrastive Framework for Joint Physical-Digital Face Attack Detection [**`2D`**]
+- \[**`2025`**\][[IEEE TPAMI]] Physical Adversarial Examples for Person Detectors in Thermal Images Based on 3D Modeling [**`2D`**]
+- \[**`2025`**\][[arXiv]] Adversarial Patch Attacks on Vision-Based Cargo Occupancy Estimation via Differentiable 3D Simulation [**`3D`**]
+- [**`2025`**][[NeurIPS](https://openreview.net/forum?id=kITPSoTBUo)] Exploring Semantic-constrained Adversarial Example with Instruction Uncertainty Reduction [**`3D`**]
 - \[**`2025`**\][[IEEE TIFS](https://ieeexplore.ieee.org/abstract/document/11045780)] Physical Adversarial Camouflage Generation in Optical Remote Sensing Images [**`3D`**]
 - \[**`2025`**\][[ICCV](https://arxiv.org/abs/2507.01367)] 3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation[**`3D`**] [[Code](https://github.com/TRLou/PGA)]
 - \[**`2025`**\][[USENIX Security Symposium](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-802-kobayashi.pdf)] Invisible but Detected: Physical Adversarial Shadow Attack and Defense on LiDAR Object Detection [**`2D`**][[Code](https://zenodo.org/records/14719074)]
@@ -158,6 +163,8 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 
 
 - \[**`2025`**\][[ICASSP](https://ieeexplore.ieee.org/abstract/document/10889070)] Generating Targeted Universal Adversarial Perturbation against Automatic Speech Recognition via Phoneme Tailoring [[Code](https://github.com/difftransattack/dta)]
+- \[**`2025`**\][[IEEE TAP]] Adversarial Attack Method Against SAR ATR Based on Superimposed Phase Modulation \[**`Radar`**\]
+- \[**`2025`**\][[JCRD]] Phonemic Adversarial Attack Against Audio Recognition in Physical World \[**`Audio/Speech`**\]
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Physical_3D_Adversarial_Attacks_against_Monocular_Depth_Estimation_in_Autonomous_CVPR_2024_paper.pdf)] Physical 3D adversarial attacks against monocular depth estimation in autonomous driving [[Code](https://github.com/Gandolfczjh/3D2Fool)]
 - \[**`2024`**\][[TIFS](https://ieeexplore.ieee.org/abstract/document/10478138/)] Adversarial relighting against face recognition 
 - \[**`2024`**\][[TDSC](https://ieeexplore.ieee.org/abstract/document/10398418)] LESSON: Multi-Label Adversarial False Data Injection Attack for Deep Learning Locational Detection 
@@ -237,6 +244,9 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 
 #### The Generalized Physical Adversarial Attacks
 
+- \[**`2025`**\][[PRL]] Enhancing generalization in high-energy physics using white-box adversarial attacks [**`Optimization-based`**]
+- \[**`2025`**\][[arXiv]] AngleRoCL: Angle-Robust Concept Learning for Physically View-Invariant T2I Adversarial Patches [**`Optimization-based`**]
+- \[**`2026`**\][[arXiv]] When World Models Dream Wrong: Physical-Conditioned Adversarial Attacks against World Models [**`Optimization-based`**]
 - \[**`2023`**\][[ICCV](https://arxiv.org/pdf/2308.07009.pdf)] ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion [**`Optimization-based`**]
 - \[**`2022`**\][[IEEE TIFS](https://ieeexplore.ieee.org/document/9856683)] TnT Attacks! Universal Naturalistic Adversarial Patches Against Deep Neural Network Systems [**`Generative`**]
 - \[**`2021`**\][[IEEE TIP](https://ieeexplore.ieee.org/document/9632406)] Universal adversarial patch attack for automatic checkout using perceptual and attentional bias [**`Generative`**]\[[Code](https://github.com/nlsde-safety-team/PerceptualAttentionalBiasedAttack)]
@@ -253,6 +263,7 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 
 #### Adversarial Detecting
 - \[**`2025`**\][[IEEE Access](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10879251)] Laser Guard: Efficiently Detecting Laser-Based Physical Adversarial Attacks in Autonomous Driving [[Code](https://github.com/lichijunjun/iseeyou)]
+- \[**`2025`**\][[NeurIPS]] Concept-Based Masking: A Patch-Agnostic Defense Against Adversarial Patch Attacks
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_NAPGuard_Towards_Detecting_Naturalistic_Adversarial_Patches_CVPR_2024_paper.pdf)] NAPGuard: Towards Detecting Naturalistic Adversarial Patches [[Code](https://github.com/wsynuiag/NAPGaurd)]
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Jing_PAD_Patch-Agnostic_Defense_against_Adversarial_Patch_Attacks_CVPR_2024_paper.pdf)] PAD: Patch-Agnostic Defense against Adversarial Patch Attacks [[Code](https://github.com/Lihua-Jing/PAD)]
 - \[**`2024`**\][[TPS](https://dl.acm.org/doi/full/10.1145/3661822)] Toward robust ASR system against audio adversarial examples using agitated logit 
@@ -268,6 +279,12 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 
 #### Adversarial Denoising
 
+- \[**`2025`**\][[AAAI]] DRIFT: Divergent Response in Filtered Transformations for Robust Adversarial Defense
+- \[**`2025`**\][[ACL]] DiffuseDef: Improved Robustness to Adversarial Attacks via Iterative Denoising
+- \[**`2025`**\][[EMNLP]] Disentangled Information Bottleneck for Adversarial Text Defense
+- \[**`2025`**\][[NeurIPS]] Adversary Aware Optimization for Robust Defense
+- \[**`2025`**\][[TACL]] Adversarial Defense without Adversarial Defense: Enhancing Language Model Robustness via Instance-level Principal Component Removal
+- \[**`2025`**\][[IEEE TIP]] OD-SHIELD: Convolutional Autoencoder-Based Defense Against Adversarial Patch Attacks in Object Detection
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Jing_PAD_Patch-Agnostic_Defense_against_Adversarial_Patch_Attacks_CVPR_2024_paper.pdf)] PAD: Patch-Agnostic Defense against Adversarial Patch Attacks [[Code](https://github.com/Lihua-Jing/PAD)]
 - \[**`2024`**\][[TAI](https://ieeexplore.ieee.org/abstract/document/10765144/)] APR-Net: Defense Against Adversarial Examples Based on Universal Adversarial Perturbation Removal Network
 - \[**`2024`**\][[Applied Intelligence](https://link.springer.com/article/10.1007/s10489-023-05253-5)] Adversarial perturbation denoising utilizing common characteristics in deep feature space
@@ -279,6 +296,7 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 
 #### Adversarial Prompting
 
+- \[**`2025`**\][[CVPR]] TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Song_MimicDiffusion_Purifying_Adversarial_Perturbation_via_Mimicking_Clean_Diffusion_Model_CVPR_2024_paper.pdf)] Mimicdiffusion: Purifying adversarial perturbation via mimicking clean diffusion model \[[Code](https://github.com/psky1111/MimicDiffusion)]
 - \[**`2024`**\][[Neural Networks](https://www.sciencedirect.com/science/article/pii/S089360802400100X)] Defense against adversarial attacks based on color space transformation 
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Si_Angelic_Patches_for_Improving_Third-Party_Object_Detector_Performance_CVPR_2023_paper.pdf)] Angelic patches for improving third-party object detector performance \[[Code](https://github.com/averysi224/angelic_patches)]
@@ -302,6 +320,12 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 
 #### Model Modification
 
+- \[**`2026`**\][[NDSS]] InverTune: A Backdoor Defense Method for Multimodal Contrastive Learning via Backdoor-Adversarial Correlation Analysis
+- \[**`2025`**\][[ICML]] One Stone, Two Birds: Enhancing Adversarial Defense Through the Lens of Distributional Discrepancy
+- \[**`2025`**\][[CCS]] Lorica: A Synergistic Fine-Tuning Framework for Advancing Personalized Adversarial Robustness
+- \[**`2025`**\][[TPAMI]] Defenses in Adversarial Machine Learning: A Systematic Survey From the Lifecycle Perspective
+- \[**`2025`**\][[Nature Machine Intelligence]] Random heterogeneous spiking neural network for adversarial defense
+- \[**`2025`**\][[TMLR]] Overcoming Open-Set Approaches to Adversarial Defense
 - \[**`2024`**\][[SMC](https://ieeexplore.ieee.org/abstract/document/10679891/)] A novel robustness-enhancing adversarial defense approach to AI-powered sea state estimation for autonomous marine vessels 
 - \[**`2024`**\][[PR](https://www.sciencedirect.com/science/article/abs/pii/S0031320323006003)] Jacobian norm with selective input gradient regularization for interpretable adversarial defense \[[Code](https://github.com/Lywu-github/jJ-SIGR)]
 - \[**`2024`**\][[Electronics](https://www.mdpi.com/2079-9292/13/13/2534)] Comparative Study of Adversarial Defenses: Adversarial Training and Regularization in Vision Transformers and CNNs 
@@ -316,6 +340,8 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 
 #### Certified Robustness
 
+- \[**`2025`**\][[ICML]] Provably Cost-Sensitive Adversarial Defense via Randomized Smoothing
+- \[**`2025`**\][[CVPR]] PatchDEMUX: A Certifiably Robust Framework for Multi-label Classifiers Against Adversarial Patches
 - \[**`2024`**\][[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/file/b96ce7d38339874a8704e8895f743284-Paper-Conference.pdf)] On the Scalability of Certified Adversarial Robustness with Generated Data 
 - \[**`2024`**\][[USENIX](https://www.usenix.org/conference/usenixsecurity24/presentation/xiang-chong)] PatchCURE: Improving Certifiable Robustness, Model Utility, and Computation Efficiency of Adversarial Patch Defenses \[[Code](https://github.com/inspire-group/PatchCURE)]
 - \[**`2022`**\][[arXiv](https://arxiv.org/pdf/2209.05980.pdf)] Certified Defences Against Adversarial Patch Attacks on Semantic Segmentation
