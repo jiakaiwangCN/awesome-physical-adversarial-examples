@@ -85,12 +85,12 @@ Cite this paper as:
 #### Touchable Attacks
 
 
-- [**`2025`**][[IEEE TPAMI](https://ieeexplore.ieee.org/document/11219170)] DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time [**`2D`**]
+- [**`2025`**][[IEEE TPAMI](https://ieeexplore.ieee.org/document/11219170)] DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time [**`2D`**][[Code](https://github.com/hujinCN/DynamicPAE)]
 - [**`2025`**][[CVPR](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_ACAttack)] ACAttack: Adaptive Cross-Attacking RGB-T Tracker via Multi-Modal Response Decoupling [**`2D`**][[Code](https://github.com/junkai-zhang-cs/ACAttack)]
 - \[**`2025`**\][[ICCVW]](https://openaccess.thecvf.com/content/ICCV2025W/FAS2025/html/Balykin_Paired-Sampling_Contrastive_Framework_for_Joint_Physical-Digital_Face_Attack_Detection_ICCVW_2025_paper.html) Paired-Sampling Contrastive Framework for Joint Physical-Digital Face Attack Detection [**`2D`**]
 - \[**`2025`**\][[IEEE TPAMI]](https://ieeexplore.ieee.org/abstract/document/11048509/) Physical Adversarial Examples for Person Detectors in Thermal Images Based on 3D Modeling [**`2D`**]
 - \[**`2025`**\][[arXiv]](https://arxiv.org/abs/2511.19254) Adversarial Patch Attacks on Vision-Based Cargo Occupancy Estimation via Differentiable 3D Simulation [**`3D`**]
-- [**`2025`**][[NeurIPS](https://openreview.net/forum?id=kITPSoTBUo)] Exploring Semantic-constrained Adversarial Example with Instruction Uncertainty Reduction [**`3D`**]
+- [**`2025`**][[NeurIPS](https://openreview.net/forum?id=kITPSoTBUo)] Exploring Semantic-constrained Adversarial Example with Instruction Uncertainty Reduction [**`3D`**][[Code](https://github.com/lsyycf/SemanticAE/)]
 - \[**`2025`**\][[IEEE TIFS](https://ieeexplore.ieee.org/abstract/document/11045780)] Physical Adversarial Camouflage Generation in Optical Remote Sensing Images [**`3D`**]
 - \[**`2025`**\][[ICCV](https://arxiv.org/abs/2507.01367)] 3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation[**`3D`**] [[Code](https://github.com/TRLou/PGA)]
 - \[**`2025`**\][[USENIX Security Symposium](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-802-kobayashi.pdf)] Invisible but Detected: Physical Adversarial Shadow Attack and Defense on LiDAR Object Detection [**`2D`**][[Code](https://zenodo.org/records/14719074)]
@@ -226,7 +226,7 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 ### Other PAEs
 
 #### The Natural Physical Adversarial Attacks
-- \[**`2025`**\][[NeurIPS](https://openreview.net/forum?id=kITPSoTBUo)] Exploring Semantic-constrained Adversarial Example with Instruction Uncertainty Reduction [**`Generative`**]
+- \[**`2025`**\][[NeurIPS](https://openreview.net/forum?id=kITPSoTBUo)] Exploring Semantic-constrained Adversarial Example with Instruction Uncertainty Reduction [**`Generative`**][[Code](https://github.com/lsyycf/SemanticAE/)]
 - \[**`2025`**\][[IEEE TIFS](https://ieeexplore.ieee.org/abstract/document/11045780)] Physical Adversarial Camouflage Generation in Optical Remote Sensing Images [**`Generative`**]
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Guesmi_DAP_A_Dynamic_Adversarial_Patch_for_Evading_Person_Detectors_CVPR_2024_paper.pdf)] DAP: A Dynamic Adversarial Patch for Evading Person Detectors [**`Optimization-based`**]
 - \[**`2023`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Towards_Benchmarking_and_Assessing_Visual_Naturalness_of_Physical_World_Adversarial_CVPR_2023_paper.pdf)] Towards benchmarking and assessing visual naturalness of physical world adversarial attacks \[**`Generative`**\][[Code](https://github.com/zhangsn-19/PAN)]
@@ -244,7 +244,7 @@ Multi-View Physical Adversarial Attack [**`2D`**]
 
 #### The Transferable Physical Adversarial Attacks
 
-- \[**`2025`**\][[NeurIPS](https://openreview.net/forum?id=kITPSoTBUo)] Exploring Semantic-constrained Adversarial Example with Instruction Uncertainty Reduction [**`Generative`**]
+- \[**`2025`**\][[NeurIPS](https://openreview.net/forum?id=kITPSoTBUo)] Exploring Semantic-constrained Adversarial Example with Instruction Uncertainty Reduction [**`Generative`**][[Code](https://github.com/lsyycf/SemanticAE/)]
 - \[**`2025`**\][[ICCV](https://arxiv.org/abs/2507.01367)] 3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation[**`Optimization-based`**] [[Code](https://github.com/TRLou/PGA)]
 - \[**`2025`**\][[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/32870)] Breaking barriers in physical-world adversarial examples: Improving robustness and transferability via robust feature [**`Optimization-based`**]\[[Code](https://github.com/CGCL-codes/RFCoA)]
 - \[**`2024`**\][[CVPR](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_Towards_Transferable_Targeted_3D_Adversarial_Attack_in_the_Physical_World_CVPR_2024_paper.pdf)] Towards Transferable Targeted 3D Adversarial Attack in the Physical World [**`Optimization-based`**]\[[Code](https://github.com/Aries-iai/TT3D)]
